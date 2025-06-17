@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub 
+# :wave: The Basics of GitHub (instructor editing the assignment itself)
 
 ## 🤓 Course overview and learning outcomes 
 
